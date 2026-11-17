@@ -1,11 +1,11 @@
 {
- "name": "Stamp Book SG",
- "short_name": "Stamp Book",
+ "name": "Chop SG",
+ "short_name": "Chop SG",
  "description": "Collect stamps at places across Singapore.",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
- "background_color": "#eef2ee",
+ "background_color": "#FBF1DC",
  "theme_color": "#0f4c4a",
  "icons": [
   {

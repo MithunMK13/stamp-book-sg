@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:15+08:00",
+  "updated": "2026-11-17T19:00+08:00",
   "events": [
     {
       "id": "eventbrite-1999739736383",
@@ -13,6 +13,21 @@
       "url": "https://www.eventbrite.sg/e/10th-sipf-2026-shophouse-singpost-geylang-post-office-tickets-1999739736383",
       "source": "Eventbrite",
       "summary": "Singapore Index by Tan Pin Pin exhibition at Shop–House by DECK. The venue publishes opening hours Wednesday–Sunday, 12:00pm–7:00pm; closed Mondays, Tuesdays and public holidays. Dates span 16 October 2026 to 31 January 2027."
+    },
+    {
+      "id": "7f652b4bf1",
+      "title": "Orchard Road Christmas Light-Up & Festive Village",
+      "start": "2026-11-17T18:30+08:00",
+      "end": "2027-01-03T23:59+08:00",
+      "category": "Festival",
+      "price": "Free public street light-up and viewing; food, rides, games and other Christmas Village purchases/activities cost extra",
+      "venue": "Orchard Road, from Tanglin Road to Dhoby Ghaut; Great Christmas Village at Ngee Ann City Civic Plaza and Shaw House Urban Plaza",
+      "spots": [
+        "ngee-ann-city"
+      ],
+      "url": "https://www.orchardroad.org",
+      "source": "Orchard Road Business Association",
+      "summary": "Christmas on A Great Street 2026 runs from 17 November 2026 to 3 January 2027 along a 3.1km stretch from Tanglin Road to Dhoby Ghaut. Light-up begins at 6:30pm; closing varies by day (midnight Sun–Thu, 2:00am Fri–Sat, and 6:00am on Christmas Eve and New Year’s Eve). The Great Christmas Village is at Ngee Ann City Civic Plaza and Shaw House Urban Plaza."
     },
     {
       "id": "c8a71b33a3",
@@ -43,34 +58,6 @@
       "url": "https://ticketmaster.sg",
       "source": "Ticketmaster SG",
       "summary": "JOJI performs SOLARIS at Arena @ EXPO on 21 November 2026. Ticketmaster confirms an 8:00pm show start; 10:00pm is retained as a planning end-time estimate, not an organiser-published finish."
-    },
-    {
-      "id": "84345054d0",
-      "title": "Vent Box Sludge & Black Metal Underground Night",
-      "start": "2026-11-21T20:00+08:00",
-      "end": "2026-11-21T23:59+08:00",
-      "category": "Music",
-      "price": "Ticketed; exact ticket price and service fee not independently verified (no matching event-specific organiser ticket page located)",
-      "venue": "Kult Kafé / Aliwal Arts Centre Blackbox",
-      "spots": [
-        "aliwal-arts-centre-courtyard"
-      ],
-      "url": "https://www.ventbox.sg",
-      "source": "Vent Box",
-      "summary": "Underground sludge, doom, and noise-rock gig curated by Vent Box in an intimate art venue. Verification note: I could not locate a current official organiser/venue page confirming the listed event date, set times and venue configuration; recheck with Vent Box before publication."
-    },
-    {
-      "id": "7f652b4bf1",
-      "title": "Orchard Road Christmas Light-Up & Festive Village",
-      "start": "2026-11-17T18:30+08:00",
-      "end": "2027-01-03T23:59+08:00",
-      "category": "Festival",
-      "price": "Free public street light-up and viewing; food, rides, games and other Christmas Village purchases/activities cost extra",
-      "venue": "Orchard Road, from Tanglin Road to Dhoby Ghaut; Great Christmas Village at Ngee Ann City Civic Plaza and Shaw House Urban Plaza",
-      "spots": [],
-      "url": "https://www.orchardroad.org",
-      "source": "Orchard Road Business Association",
-      "summary": "Christmas on A Great Street 2026 runs from 17 November 2026 to 3 January 2027 along a 3.1km stretch from Tanglin Road to Dhoby Ghaut. Light-up begins at 6:30pm; closing varies by day (midnight Sun–Thu, 2:00am Fri–Sat, and 6:00am on Christmas Eve and New Year’s Eve). The Great Christmas Village is at Ngee Ann City Civic Plaza and Shaw House Urban Plaza."
     },
     {
       "id": "52808c1e8b",
@@ -118,6 +105,21 @@
       "summary": "Southeast Asia's premier Japanese popular culture and anime convention, featuring concerts, exhibitions, and creators."
     },
     {
+      "id": "da19298074",
+      "title": "Christmas Wonderland at Gardens by the Bay",
+      "start": "2026-11-27T18:30+08:00",
+      "end": "2027-01-03T23:00+08:00",
+      "category": "Family",
+      "price": "Adults: S$9–S$13 advance purchase or S$12–S$16 same-day (date-dependent); children aged 3–12: S$7; under 3: free. Same-day booth tickets carry a S$3 surcharge over advance prices; rides, games and other Gardens attractions cost extra",
+      "venue": "Supertree Grove & The Meadow, Gardens by the Bay",
+      "spots": [
+        "supertree-grove"
+      ],
+      "url": "https://christmaswonderland.sg",
+      "source": "Gardens by the Bay",
+      "summary": "Christmas Wonderland runs from 27 November 2026 to 3 January 2027, daily 6:30pm–11:00pm, with last admission at 10:15pm. Official location: Supertree Grove and The Meadow, Gardens by the Bay."
+    },
+    {
       "id": "7b79338e9e",
       "title": "Our Tampines Hub Arts & Culture Fest",
       "start": "2026-11-28T10:00+08:00",
@@ -163,19 +165,17 @@
       "summary": "K-pop girl group BABYMONSTER performs live on their CHOOM world tour stage."
     },
     {
-      "id": "da19298074",
-      "title": "Christmas Wonderland at Gardens by the Bay",
-      "start": "2026-11-27T18:30+08:00",
-      "end": "2027-01-03T23:00+08:00",
-      "category": "Family",
-      "price": "Adults: S$9–S$13 advance purchase or S$12–S$16 same-day (date-dependent); children aged 3–12: S$7; under 3: free. Same-day booth tickets carry a S$3 surcharge over advance prices; rides, games and other Gardens attractions cost extra",
-      "venue": "Supertree Grove & The Meadow, Gardens by the Bay",
-      "spots": [
-        "supertree-grove"
-      ],
-      "url": "https://christmaswonderland.sg",
-      "source": "Gardens by the Bay",
-      "summary": "Christmas Wonderland runs from 27 November 2026 to 3 January 2027, daily 6:30pm–11:00pm, with last admission at 10:15pm. Official location: Supertree Grove and The Meadow, Gardens by the Bay."
+      "id": "vb-ellende",
+      "title": "Ellende: Asia Tour 2026 Live in Singapore",
+      "start": "2026-11-29T20:00+08:00",
+      "end": "2026-11-29T22:00+08:00",
+      "category": "Music",
+      "price": "S$68 presale + S$1.70 service fee",
+      "venue": "Bad Basement Club, 133 Cecil Street",
+      "spots": [],
+      "url": "https://www.ventboxproductions.com/event-details/ellende-zerfall-asia-tour-2026-live-in-singapore",
+      "source": "Vent Box Productions",
+      "summary": "Austrian atmospheric black metal band Ellende plays an intimate show. Show 8:00pm–10:00pm per the promoter; doors not listed."
     },
     {
       "id": "5dc31229c3",
@@ -213,7 +213,9 @@
       "category": "Arts",
       "price": "Free",
       "venue": "Fengshan CC, Level 2 Theatre, 20 Bedok North Street 2",
-      "spots": [],
+      "spots": [
+        "fengshan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/cc/fengshan-cc",
       "source": "People's Association (OnePA)",
       "summary": "Fengshan SCEC drumming class for residents aged 60 and above. This is a recurring class on Fridays 4, 11 and 18 December 2026, 11:30am–1:30pm; it is not a continuous multi-day event. Fengshan CC, Level 2 Theatre."
@@ -239,7 +241,9 @@
       "category": "Sports",
       "price": "From $10.00 to $20.00",
       "venue": "Punggol 21 CC, Level 1 Multi-Purpose Hall, 80 Punggol Field",
-      "spots": [],
+      "spots": [
+        "punggol-21-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/cc/punggol-21-cc",
       "source": "People's Association (OnePA)",
       "summary": "PSYN CUP 2026 badminton tournament runs 5–6 December 2026, 8:00am–9:00pm each day. Venue: Punggol 21 CC Level 1 Multi-Purpose Hall. OnePA lists registration fees of $10 for singles and $20 for doubles; the database price field is retained as previously audited."
@@ -278,7 +282,9 @@
       "category": "Community",
       "price": "$3.00",
       "venue": "Paya Lebar Kovan CC, Hall 1, 207 Hougang Street 21",
-      "spots": [],
+      "spots": [
+        "paya-lebar-kovan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/paya-lebar-aljunied-maec-active-ladies-day-dec-2026-19641040",
       "source": "People's Association (OnePA)",
       "summary": "Community activity session organised by Paya Lebar-Aljunied MAEC."
@@ -346,7 +352,9 @@
       "category": "Festival",
       "price": "$8.00",
       "venue": "SPACE 1 & 2, Our Tampines Hub, Level 2",
-      "spots": [],
+      "spots": [
+        "tampines-central-community-club-our-tampines-hub"
+      ],
       "url": "https://www.onepa.gov.sg/events/starry-christmas-celebration-2026-58512486",
       "source": "People's Association (OnePA)",
       "summary": "Christmas celebration with line dancing, karaoke, halal buffet, performances, lucky draw and door gifts."
@@ -385,10 +393,27 @@
       "category": "Festival",
       "price": "$5.00",
       "venue": "Bishan CC",
-      "spots": [],
+      "spots": [
+        "bishan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/c2e-csn-christmas-carnival-community-resilience-road-safety-night-81799720",
       "source": "People's Association (OnePA)",
       "summary": "Christmas carnival featuring road-safety activities, a skit, mascot appearance and community fire drill."
+    },
+    {
+      "id": "vb-vomitory",
+      "title": "Vomitory: In Death Throes Asia Tour 2026",
+      "start": "2026-12-06T18:00+08:00",
+      "end": "2026-12-06T22:00+08:00",
+      "category": "Music",
+      "price": "S$68 presale + S$1.70 service fee",
+      "venue": "Aliwal Arts Centre, 28 Aliwal Street",
+      "spots": [
+        "aliwal-arts-centre-courtyard"
+      ],
+      "url": "https://www.ventboxproductions.com/event-details/vomitory-in-death-throes-asia-tour-2026-live-in-singapore",
+      "source": "Vent Box Productions",
+      "summary": "Swedish death metal veterans Vomitory, with Malaysia’s Bunuhdiri and Singapore’s Assault. 6:00pm–10:00pm."
     },
     {
       "id": "onepa-ee66909927",
@@ -411,23 +436,12 @@
       "category": "Music",
       "price": "$5.00",
       "venue": "Punggol 21 Community Club",
-      "spots": [],
+      "spots": [
+        "punggol-21-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/search?category=Neighbourhood+Events&events=&sort=rel",
       "source": "People's Association (OnePA)",
       "summary": "Recurring karaoke club sessions listed for 7–28 December 2026, 3pm–6pm."
-    },
-    {
-      "id": "onepa-e31300599",
-      "title": "Z1 Christmas Above the City - December 2026",
-      "start": "2026-12-12T17:30+08:00",
-      "end": "2026-12-12T21:30+08:00",
-      "category": "Family",
-      "price": "Price not published on OnePA",
-      "venue": "Hougang CC Auditorium & Singapore Flyer",
-      "spots": [],
-      "url": "https://www.onepa.gov.sg/events/z1-christmas-above-the-city-dec-2026-31300599",
-      "source": "People's Association (OnePA)",
-      "summary": "OnePA confirms this is a single-day outing on 12 December 2026, 5:30pm–9:30pm. Registration is at Hougang CC Auditorium at 5:30pm, followed by the Singapore Flyer from 6:00pm. The earlier 11 December start date was incorrect."
     },
     {
       "id": "onepa-e59023662",
@@ -465,7 +479,9 @@
       "category": "Food",
       "price": "$5.00",
       "venue": "Pasir Ris East CC, Level 2 Multi-Purpose Hall",
-      "spots": [],
+      "spots": [
+        "pasir-ris-east-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/changi-wec-christmas-lunch-71304398",
       "source": "People's Association (OnePA)",
       "summary": "Christmas lunch with performances, goodie bags, lucky draws and a Santa appearance."
@@ -491,7 +507,9 @@
       "category": "Music",
       "price": "$5.00 entry; $2.00 per song ticket",
       "venue": "Fengshan CC Multi-Purpose Hall, 20 Bedok North Street 2",
-      "spots": [],
+      "spots": [
+        "fengshan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/fengshan-maec-malam-hiburan-karaoke-12-dec-2026-sat-a-place-for-all-17054534",
       "source": "People's Association (OnePA)",
       "summary": "Malay community karaoke evening; admission is $5 per person and song tickets cost $2 each."
@@ -517,7 +535,9 @@
       "category": "Festival",
       "price": "Early bird $8.00; walk-in $10.00",
       "venue": "Pek Kio Community Club",
-      "spots": [],
+      "spots": [
+        "pek-kio-community-centre"
+      ],
       "url": "https://www.onepa.gov.sg/events/christmas-together-2026-pek-kio-12-dec-2026-64043978",
       "source": "People's Association (OnePA)",
       "summary": "Community Christmas evening with performances, cookie decoration, crafts, a lucky draw and photo opportunities; organised with local community groups."
@@ -543,7 +563,9 @@
       "category": "Festival",
       "price": "$10.00",
       "venue": "Gardens by the Bay",
-      "spots": [],
+      "spots": [
+        "supertree-grove"
+      ],
       "url": "https://www.onepa.gov.sg/events/christmas-wonderland-2026-15885647",
       "source": "People's Association (OnePA)",
       "summary": "Organised outing to Christmas Wonderland, including two-way bus transport and admission."
@@ -556,7 +578,9 @@
       "category": "Music",
       "price": "$10.00 per person",
       "venue": "Toa Payoh West Community Club, Level 1 Multi-Purpose Hall",
-      "spots": [],
+      "spots": [
+        "toa-payoh-west-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/seniors-karaoke-grand-finals-appreciation-night-ok-12746642",
       "source": "People's Association (OnePA)",
       "summary": "OnePA’s event header lists 5:00pm–9:00pm, while the event description states 7:00pm–9:30pm. Venue: Toa Payoh West Community Club, Level 1 Multi-Purpose Hall. The time discrepancy is unresolved; confirm with the organiser before displaying a definitive session time."
@@ -586,6 +610,22 @@
       "url": "https://www.eventbrite.sg/e/vibes-lights-out-2026-tickets-2003394549026",
       "source": "Eventbrite",
       "summary": "Annual year-end gig by ITE College West VIBES Rockband, featuring Balcanana, High Freakuency, Slow Burn, Punk Hazard, East Dynamics and BMCHC."
+    },
+    {
+      "id": "onepa-e31300599",
+      "title": "Z1 Christmas Above the City - December 2026",
+      "start": "2026-12-12T17:30+08:00",
+      "end": "2026-12-12T21:30+08:00",
+      "category": "Family",
+      "price": "Price not published on OnePA",
+      "venue": "Hougang CC Auditorium & Singapore Flyer",
+      "spots": [
+        "singapore-flyer-ground-stamp",
+        "hougang-community-club"
+      ],
+      "url": "https://www.onepa.gov.sg/events/z1-christmas-above-the-city-dec-2026-31300599",
+      "source": "People's Association (OnePA)",
+      "summary": "OnePA confirms this is a single-day outing on 12 December 2026, 5:30pm–9:30pm. Registration is at Hougang CC Auditorium at 5:30pm, followed by the Singapore Flyer from 6:00pm. The earlier 11 December start date was incorrect."
     },
     {
       "id": "onepa-e28280899",
@@ -660,7 +700,9 @@
       "category": "Music",
       "price": "$5.00 per person",
       "venue": "Paya Lebar Kovan Community Club, Hall 1, 207 Hougang Street 21",
-      "spots": [],
+      "spots": [
+        "paya-lebar-kovan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/wec-community-danceworkout-to-k-pop-12-dec-2026-67383019",
       "source": "People's Association (OnePA)",
       "summary": "K-pop fitness and random-play dance party organised by Paya Lebar-Aljunied WEC."
@@ -699,7 +741,9 @@
       "category": "Arts",
       "price": "Price not published on OnePA",
       "venue": "Siglap South Community Centre #02-04, 6 Palm Road",
-      "spots": [],
+      "spots": [
+        "siglap-south-wind-chime-park"
+      ],
       "url": "https://www.onepa.gov.sg/events/aac-christmas-craft-workshop-s1-19678900",
       "source": "People's Association (OnePA)",
       "summary": "Hands-on workshop to create a Christmas craft masterpiece."
@@ -740,7 +784,9 @@
       "category": "Music",
       "price": "Ticket price not published on Eventbrite",
       "venue": "The Jazz Loft @ Blu Jaz, 11 Bali Lane, Level 3",
-      "spots": [],
+      "spots": [
+        "hjl"
+      ],
       "url": "https://www.eventbrite.sg/e/christmas-jazz-with-aja-gaucho-soul-revue-tickets-2004630304203",
       "source": "Eventbrite",
       "summary": "Christmas jazz show by Aja & Gaucho Soul Revue, with Joseph Ng on piano, Ignatius Bong on bass and Tan Boon Gee on drums."
@@ -766,7 +812,9 @@
       "category": "Education",
       "price": "Price not published on OnePA",
       "venue": "Tampines Changkat CC, Activity Rooms 1 & 2, Level 3",
-      "spots": [],
+      "spots": [
+        "tampines-changkat-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/ai-workshop-for-parents-children-december-2026-74465868",
       "source": "People's Association (OnePA)",
       "summary": "Family workshop on creating personalised illustrated stories with Google Storybook AI."
@@ -779,7 +827,9 @@
       "category": "Tour",
       "price": "$40.00",
       "venue": "Fengshan CC (departure point)",
-      "spots": [],
+      "spots": [
+        "fengshan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/cc/fengshan-cc",
       "source": "People's Association (OnePA)",
       "summary": "Year-end outing and makan trip organised by Fengshan CC WEC."
@@ -805,7 +855,9 @@
       "category": "Festival",
       "price": "$5.00",
       "venue": "Tampines North CC, Level 1 Multi-Purpose Court",
-      "spots": [],
+      "spots": [
+        "tampines-north-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/20261219-tampines-north-year-end-celebration-2026-74078885",
       "source": "People's Association (OnePA)",
       "summary": "Futuristic year-end carnival with arcade rides, VR experiences, live performances and interactive activities."
@@ -818,7 +870,9 @@
       "category": "Festival",
       "price": "$10.00 per person",
       "venue": "Tampines East CC Multi-Purpose Hall",
-      "spots": [],
+      "spots": [
+        "tampines-east-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/tez4-holly-jolly-shake-your-body-19-december-2026-48616316",
       "source": "People's Association (OnePA)",
       "summary": "Festive evening with buffet dinner, best-dressed contest, games, Zumba dance party and lucky draw."
@@ -831,7 +885,9 @@
       "category": "Festival",
       "price": "$20.00",
       "venue": "Ulu Pandan Community Club",
-      "spots": [],
+      "spots": [
+        "ulu-pandan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/search?aoi=&events=&outlet=Ulu+Pandan+CC&showAllResults=true&sort=rel",
       "source": "People's Association (OnePA)",
       "summary": "Year-end dinner and dance organised by Ulu Pandan CC SCEC."
@@ -1022,7 +1078,9 @@
       "category": "Festival",
       "price": "$78.00",
       "venue": "Paya Lebar Kovan CC Hall 1, 207 Hougang Street 21",
-      "spots": [],
+      "spots": [
+        "paya-lebar-kovan-community-club"
+      ],
       "url": "https://www.onepa.gov.sg/events/plkcc-s-countdown-dinner-dance-2026-e32520608",
       "source": "People's Association (OnePA)",
       "summary": "New Year’s Eve countdown dinner and dance hosted by Paya Lebar Kovan Community Club."
@@ -1087,7 +1145,9 @@
       "category": "Education",
       "price": "$5.00-$8.00",
       "venue": "IGA Room 1, inside Our Tampines Hub Library, Level 2",
-      "spots": [],
+      "spots": [
+        "tampines-central-community-club-our-tampines-hub"
+      ],
       "url": "https://www.onepa.gov.sg/events/tampines-central-wec-ai-cny-magic-workshop-77587191",
       "source": "People's Association (OnePA)",
       "summary": "Workshop on creating personalised Chinese New Year greetings using artificial intelligence."
@@ -1119,6 +1179,34 @@
       "summary": "New Year celebration organised by Ulu Pandan Zone A Residents' Network."
     },
     {
+      "id": "onepa-e75274863",
+      "title": "Toa Payoh Crest ReLove Flea Market & Interest Group Day",
+      "start": "2027-01-10T11:00+08:00",
+      "end": "2027-01-10T15:00+08:00",
+      "category": "Market",
+      "price": "Admission price not published; vendor booths S$10–S$15",
+      "venue": "Block 130C Pavilion, Toa Payoh Crest",
+      "spots": [],
+      "url": "https://www.onepa.gov.sg/events/toa-payoh-crest-second-chance-flea-interest-group-day-75274863",
+      "source": "People's Association (OnePA)",
+      "summary": "Community flea market for pre-loved items alongside an interest-group showcase."
+    },
+    {
+      "id": "vb-archspire",
+      "title": "Archspire: Bring Back The Danger Tour 2027",
+      "start": "2027-01-10T19:00+08:00",
+      "end": "2027-01-10T22:00+08:00",
+      "category": "Music",
+      "price": "S$78 presale + S$1.95 service fee",
+      "venue": "Aliwal Arts Centre, 28 Aliwal Street",
+      "spots": [
+        "aliwal-arts-centre-courtyard"
+      ],
+      "url": "https://www.ventboxproductions.com/event-details/archspire-bring-back-the-danger-2027-live-in-singapore",
+      "source": "Vent Box Productions",
+      "summary": "Canadian technical death metal band Archspire in their first Singapore appearance, with France’s Warside. 7:00pm–10:00pm."
+    },
+    {
       "id": "ff55df111d",
       "title": "Light to Night Festival 2027",
       "start": "2027-01-15T00:00+08:00",
@@ -1135,19 +1223,6 @@
       "url": "https://www.nationalgallery.sg",
       "source": "National Gallery Singapore",
       "summary": "Light to Night Singapore 2027 runs 15–31 January 2027. National Gallery Singapore confirms locations across the Gallery and Civic District, including partner venues. Programme and performance times vary; the database timestamps represent the festival date span, not fixed daily opening hours."
-    },
-    {
-      "id": "onepa-e75274863",
-      "title": "Toa Payoh Crest ReLove Flea Market & Interest Group Day",
-      "start": "2027-01-10T11:00+08:00",
-      "end": "2027-01-10T15:00+08:00",
-      "category": "Market",
-      "price": "Admission price not published; vendor booths S$10–S$15",
-      "venue": "Block 130C Pavilion, Toa Payoh Crest",
-      "spots": [],
-      "url": "https://www.onepa.gov.sg/events/toa-payoh-crest-second-chance-flea-interest-group-day-75274863",
-      "source": "People's Association (OnePA)",
-      "summary": "Community flea market for pre-loved items alongside an interest-group showcase."
     },
     {
       "id": "eventbrite-2001813074794",
@@ -1215,19 +1290,6 @@
       "summary": "A series of Chinese New Year craft sessions on 16, 23 and 30 January 2027 at different Sembawang West RN locations. OnePA lists individual sessions at specific blocks and units, with varying times (11:00am–5:00pm overall envelope); this is not a single continuous event at one venue."
     },
     {
-      "id": "onepa-e22155441",
-      "title": "Kebun Baru CC WEC One-Day Chinese New Year Shopping Tour 2027",
-      "start": "2027-01-22T09:00+08:00",
-      "end": "2027-01-22T17:00+08:00",
-      "category": "Tour",
-      "price": "$3.00",
-      "venue": "216 Ang Mo Kio Avenue 4",
-      "spots": [],
-      "url": "https://www.onepa.gov.sg/events/kebun-baru-cc-wec-1-day-chinese-new-year-shopping-tour-2027-22155441",
-      "source": "People's Association (OnePA)",
-      "summary": "One-day Chinese New Year shopping tour on 22 January 2027, 9:00am–5:00pm. Participants are asked to reach 216 Ang Mo Kio Avenue 4 by 8:45am. OnePA describes stops at food wholesalers, bak kwa/snack suppliers, plant and flower sellers and food factories."
-    },
-    {
       "id": "8eb6bbd585",
       "title": "Singapore Art Week (SAW) 2027",
       "start": "2027-01-21T00:00+08:00",
@@ -1243,6 +1305,19 @@
       "url": "https://www.artweek.sg",
       "source": "National Arts Council",
       "summary": "Singapore Art Week 2027 runs 21–31 January 2027, organised by the National Arts Council. Programmes take place across museums, galleries, independent art spaces and public spaces islandwide, as well as online. Individual programme times and venues vary; these timestamps mark the overall festival span."
+    },
+    {
+      "id": "onepa-e22155441",
+      "title": "Kebun Baru CC WEC One-Day Chinese New Year Shopping Tour 2027",
+      "start": "2027-01-22T09:00+08:00",
+      "end": "2027-01-22T17:00+08:00",
+      "category": "Tour",
+      "price": "$3.00",
+      "venue": "216 Ang Mo Kio Avenue 4",
+      "spots": [],
+      "url": "https://www.onepa.gov.sg/events/kebun-baru-cc-wec-1-day-chinese-new-year-shopping-tour-2027-22155441",
+      "source": "People's Association (OnePA)",
+      "summary": "One-day Chinese New Year shopping tour on 22 January 2027, 9:00am–5:00pm. Participants are asked to reach 216 Ang Mo Kio Avenue 4 by 8:45am. OnePA describes stops at food wholesalers, bak kwa/snack suppliers, plant and flower sellers and food factories."
     },
     {
       "id": "47aa10f443",
@@ -1340,21 +1415,6 @@
       "summary": "Ticketmaster confirms an 8:00pm show on 29 January 2027 at Singapore Indoor Stadium. A 10:00pm end is used as a two-hour planning estimate only; the organiser page publishes the start time, not an official finish time."
     },
     {
-      "id": "8517c1bcf4-20270130",
-      "title": "KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST – 30 January",
-      "start": "2027-01-30T20:00+08:00",
-      "end": "2027-01-30T22:00+08:00",
-      "category": "Music",
-      "price": "S$168–S$238; Ticketmaster booking fee extra: S$8 per ticket in this price band",
-      "venue": "Singapore Indoor Stadium",
-      "spots": [
-        "singapore-indoor-stadium"
-      ],
-      "url": "https://www.livenation.sg",
-      "source": "Live Nation Singapore",
-      "summary": "Ticketmaster confirms an 8:00pm show on 30 January 2027 at Singapore Indoor Stadium. A 10:00pm end is used as a two-hour planning estimate only; the organiser page publishes the start time, not an official finish time."
-    },
-    {
       "id": "onepa-e57303066",
       "title": "Tampines East Zone 7 RN One-Day Chinese New Year Local Tour",
       "start": "2027-01-30T08:30+08:00",
@@ -1410,6 +1470,21 @@
       "url": "https://chinatown.sg",
       "source": "Chinatown Festival Committee",
       "summary": "Chinatown Chinese New Year Street Light-Up & Festive Market 2027. As of 17 November 2026, the People’s Association has published a tender for event management of the 2027 celebrations, but the public programme dates, daily hours and exact venue configuration have not yet been announced. Current dates/times and venue are provisional placeholders."
+    },
+    {
+      "id": "8517c1bcf4-20270130",
+      "title": "KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST – 30 January",
+      "start": "2027-01-30T20:00+08:00",
+      "end": "2027-01-30T22:00+08:00",
+      "category": "Music",
+      "price": "S$168–S$238; Ticketmaster booking fee extra: S$8 per ticket in this price band",
+      "venue": "Singapore Indoor Stadium",
+      "spots": [
+        "singapore-indoor-stadium"
+      ],
+      "url": "https://www.livenation.sg",
+      "source": "Live Nation Singapore",
+      "summary": "Ticketmaster confirms an 8:00pm show on 30 January 2027 at Singapore Indoor Stadium. A 10:00pm end is used as a two-hour planning estimate only; the organiser page publishes the start time, not an official finish time."
     },
     {
       "id": "onepa-e97637627",
@@ -1520,19 +1595,6 @@
       "summary": "Geylang Serai Ramadan Bazaar 2027. As of 17 November 2026, the People’s Association/Wisma Geylang Serai has not published an official 2027 bazaar date range or daily operating hours. The current date and time values are provisional estimates and must be rechecked against the organiser’s announcement."
     },
     {
-      "id": "eventbrite-2003121710960",
-      "title": "A Night of Breakthrough 突破之夜",
-      "start": "2027-02-19T19:00+08:00",
-      "end": "2027-02-19T21:30+08:00",
-      "category": "Music",
-      "price": "Ticket price not published on Eventbrite",
-      "venue": "Bethesda Cathedral, 30 Chai Chee Street",
-      "spots": [],
-      "url": "https://www.eventbrite.sg/e/a-night-of-breakthrough-tickets-2003121710960",
-      "source": "Eventbrite",
-      "summary": "Original-music concert by Breakthrough Missions, interweaving songs with short video testimonies."
-    },
-    {
       "id": "61cd4cc842",
       "title": "Chingay Parade 2027 – Parade 1",
       "start": "2027-02-19T17:00+08:00",
@@ -1548,6 +1610,19 @@
       "summary": "The Chingay organiser’s performer schedule (last updated 15 October 2026) lists Parade 1 on 19 February 2027, 5:00pm–9:30pm, and Parade 2 on 20 February 2027, 5:00pm–9:30pm. The organiser labels the schedule tentative. F1 Pit Building remains the venue carried from the source listing; verify the final public venue and ticket arrangements before publishing."
     },
     {
+      "id": "eventbrite-2003121710960",
+      "title": "A Night of Breakthrough 突破之夜",
+      "start": "2027-02-19T19:00+08:00",
+      "end": "2027-02-19T21:30+08:00",
+      "category": "Music",
+      "price": "Ticket price not published on Eventbrite",
+      "venue": "Bethesda Cathedral, 30 Chai Chee Street",
+      "spots": [],
+      "url": "https://www.eventbrite.sg/e/a-night-of-breakthrough-tickets-2003121710960",
+      "source": "Eventbrite",
+      "summary": "Original-music concert by Breakthrough Missions, interweaving songs with short video testimonies."
+    },
+    {
       "id": "61cd4cc842-20270220",
       "title": "Chingay Parade 2027 – Parade 2",
       "start": "2027-02-20T17:00+08:00",
@@ -1561,6 +1636,19 @@
       "url": "https://www.chingay.gov.sg",
       "source": "People's Association",
       "summary": "The Chingay organiser’s performer schedule (last updated 15 October 2026) lists Parade 1 on 19 February 2027, 5:00pm–9:30pm, and Parade 2 on 20 February 2027, 5:00pm–9:30pm. The organiser labels the schedule tentative. F1 Pit Building remains the venue carried from the source listing; verify the final public venue and ticket arrangements before publishing."
+    },
+    {
+      "id": "vb-periphery",
+      "title": "Periphery: A Pale White Dot Asia Tour 2027",
+      "start": "2027-03-21T18:00+08:00",
+      "end": "2027-03-21T22:30+08:00",
+      "category": "Music",
+      "price": "S$128 presale + S$3.20 fee; S$148 with Priority Entry + S$3.70 fee",
+      "venue": "The Grand Theatre, 26 Lorong 27A Geylang",
+      "spots": [],
+      "url": "https://www.ventboxproductions.com/event-details/periphery2027",
+      "source": "Vent Box Productions",
+      "summary": "American progressive metal band Periphery return to Singapore after their last show here in 2017. 6:00pm–10:30pm; Priority Entry gets in 40 minutes before doors."
     }
   ]
 }
