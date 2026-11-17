@@ -1,0 +1,431 @@
+{
+ "updated": "2026-11-17T04:02+08:00",
+ "events": [
+  {
+   "id": "c8a71b33a3",
+   "title": "wave to earth – the pieces tour",
+   "start": "2026-11-20T20:00+08:00",
+   "end": "2026-11-20T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "Singapore Indoor Stadium",
+   "spots": [
+    "singapore-indoor-stadium"
+   ],
+   "url": "https://www.livenation.sg",
+   "source": "Live Nation Singapore",
+   "summary": "Korean indie rock band wave to earth performs live in Singapore for The Pieces Tour."
+  },
+  {
+   "id": "3361c459ad",
+   "title": "JOJI: SOLARIS",
+   "start": "2026-11-21T19:00+08:00",
+   "end": "2026-11-21T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "Arena @ EXPO",
+   "spots": [
+    "singapore-expo"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Alternative R&B artist Joji presents his SOLARIS live concert performance."
+  },
+  {
+   "id": "84345054d0",
+   "title": "Vent Box Sludge & Black Metal Underground Night",
+   "start": "2026-11-21T20:00+08:00",
+   "end": "2026-11-21T23:59+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "Kult Kafé / Aliwal Arts Centre Blackbox",
+   "spots": [
+    "aliwal-arts-centre-courtyard"
+   ],
+   "url": "https://www.ventbox.sg",
+   "source": "Vent Box",
+   "summary": "Underground sludge, doom, and noise-rock gig curated by Vent Box in an intimate art venue."
+  },
+  {
+   "id": "7f652b4bf1",
+   "title": "Orchard Road Christmas Light-Up & Festive Village",
+   "start": "2026-11-22T18:30+08:00",
+   "end": "2027-01-01T23:00+08:00",
+   "category": "Festival",
+   "price": "Free",
+   "venue": "Orchard Road",
+   "spots": [],
+   "url": "https://www.orchardroad.org",
+   "source": "Orchard Road Business Association",
+   "summary": "Annual holiday street light-up with pop-up carnival rides, food stalls, and interactive art installations."
+  },
+  {
+   "id": "52808c1e8b",
+   "title": "JOJI: SOLARIS",
+   "start": "2026-11-22T19:00+08:00",
+   "end": "2026-11-22T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "Arena @ EXPO",
+   "spots": [
+    "singapore-expo"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Alternative R&B artist Joji presents his SOLARIS live concert performance."
+  },
+  {
+   "id": "fb3323327c",
+   "title": "Guns N' Roses World Tour 2026",
+   "start": "2026-11-25T19:30+08:00",
+   "end": "2026-11-25T22:30+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "National Stadium",
+   "spots": [
+    "national-stadium"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Legendary rock band Guns N' Roses performs live at the Singapore National Stadium."
+  },
+  {
+   "id": "c69ff67d9c",
+   "title": "Anime Festival Asia Singapore 2026 (AFASG26)",
+   "start": "2026-11-27T10:00+08:00",
+   "end": "2026-11-29T20:00+08:00",
+   "category": "Festival",
+   "price": "Ticketed",
+   "venue": "Suntec Singapore Convention & Exhibition Centre",
+   "spots": [
+    "suntec-singapore-convention-centre"
+   ],
+   "url": "https://animefestival.asia",
+   "source": "SOZO",
+   "summary": "Southeast Asia's premier Japanese popular culture and anime convention, featuring concerts, exhibitions, and creators."
+  },
+  {
+   "id": "7b79338e9e",
+   "title": "Our Tampines Hub Arts & Culture Fest",
+   "start": "2026-11-28T10:00+08:00",
+   "end": "2026-11-29T21:00+08:00",
+   "category": "Family",
+   "price": "Free",
+   "venue": "Tampines Central Community Club @ Our Tampines Hub",
+   "spots": [
+    "tampines-central-community-club-our-tampines-hub"
+   ],
+   "url": "https://www.pa.gov.sg",
+   "source": "People's Association",
+   "summary": "Community-led arts showcase, family workshops, and cultural performances organized by People's Association."
+  },
+  {
+   "id": "c22a2b3788",
+   "title": "2026-27 BABYMONSTER WORLD TOUR [CHOOM] IN SINGAPORE",
+   "start": "2026-11-28T18:00+08:00",
+   "end": "2026-11-28T21:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "Singapore Indoor Stadium",
+   "spots": [
+    "singapore-indoor-stadium"
+   ],
+   "url": "https://www.livenation.sg",
+   "source": "Live Nation Singapore",
+   "summary": "K-pop girl group BABYMONSTER performs live on their CHOOM world tour stage."
+  },
+  {
+   "id": "d6b99c4e3d",
+   "title": "2026-27 BABYMONSTER WORLD TOUR [CHOOM] IN SINGAPORE",
+   "start": "2026-11-29T18:00+08:00",
+   "end": "2026-11-29T21:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "Singapore Indoor Stadium",
+   "spots": [
+    "singapore-indoor-stadium"
+   ],
+   "url": "https://www.livenation.sg",
+   "source": "Live Nation Singapore",
+   "summary": "K-pop girl group BABYMONSTER performs live on their CHOOM world tour stage."
+  },
+  {
+   "id": "da19298074",
+   "title": "Christmas Wonderland at Gardens by the Bay",
+   "start": "2026-12-01T18:30+08:00",
+   "end": "2027-01-01T23:00+08:00",
+   "category": "Family",
+   "price": "Ticketed",
+   "venue": "Gardens by the Bay (Supertree Grove)",
+   "spots": [
+    "supertree-grove"
+   ],
+   "url": "https://christmaswonderland.sg",
+   "source": "Gardens by the Bay",
+   "summary": "Singapore's biggest Christmas event featuring light sculptures, festive markets, rides, and snowfall experiences."
+  },
+  {
+   "id": "5dc31229c3",
+   "title": "Queens of the Stone Age World Tour in Singapore",
+   "start": "2026-12-02T20:00+08:00",
+   "end": "2026-12-02T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "The Star Theatre",
+   "spots": [
+    "the-star-theatre"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Iconic American rock group Queens of the Stone Age performs live at The Star Theatre."
+  },
+  {
+   "id": "d5976833fb",
+   "title": "Jurong Lake Gardens Cultural Arts Weekend",
+   "start": "2026-12-05T16:00+08:00",
+   "end": "2026-12-06T21:00+08:00",
+   "category": "Arts",
+   "price": "Free",
+   "venue": "Jurong Lake Gardens Rasau Walk / Yuhua CC",
+   "spots": [
+    "jurong-lake-gardens-rasau-walk",
+    "yuhua-community-club"
+   ],
+   "url": "https://www.nparks.gov.sg",
+   "source": "National Parks Board / PA",
+   "summary": "Sunset outdoor music concerts, nature sketch walks, and community art pop-ups along Jurong Lake."
+  },
+  {
+   "id": "1df2dc9379",
+   "title": "Heartbeat@Bedok Heritage & Food Fair",
+   "start": "2026-12-12T11:00+08:00",
+   "end": "2026-12-13T21:00+08:00",
+   "category": "Festival",
+   "price": "Free",
+   "venue": "Kampong Chai Chee CC at Heartbeat@Bedok",
+   "spots": [
+    "kampong-chai-chee-community-club-at-heartbeat-bedok"
+   ],
+   "url": "https://www.pa.gov.sg",
+   "source": "People's Association",
+   "summary": "Bedok community hub festival featuring local food pop-ups, craft booths, and youth band showcases."
+  },
+  {
+   "id": "76c0f2cf94",
+   "title": "BTS WORLD TOUR 'ARIRANG' IN SINGAPORE",
+   "start": "2026-12-17T19:00+08:00",
+   "end": "2026-12-17T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "National Stadium",
+   "spots": [
+    "national-stadium"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Global superstar group BTS returns for their highly anticipated world tour residency in Singapore."
+  },
+  {
+   "id": "0dab426844",
+   "title": "BTS WORLD TOUR 'ARIRANG' IN SINGAPORE",
+   "start": "2026-12-19T19:00+08:00",
+   "end": "2026-12-19T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "National Stadium",
+   "spots": [
+    "national-stadium"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Global superstar group BTS returns for their highly anticipated world tour residency in Singapore."
+  },
+  {
+   "id": "513b57a47d",
+   "title": "BTS WORLD TOUR 'ARIRANG' IN SINGAPORE",
+   "start": "2026-12-20T19:00+08:00",
+   "end": "2026-12-20T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "National Stadium",
+   "spots": [
+    "national-stadium"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Global superstar group BTS returns for their highly anticipated world tour residency in Singapore."
+  },
+  {
+   "id": "a45f553bc8",
+   "title": "BTS WORLD TOUR 'ARIRANG' IN SINGAPORE",
+   "start": "2026-12-22T19:00+08:00",
+   "end": "2026-12-22T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "National Stadium",
+   "spots": [
+    "national-stadium"
+   ],
+   "url": "https://ticketmaster.sg",
+   "source": "Ticketmaster SG",
+   "summary": "Global superstar group BTS returns for their highly anticipated world tour residency in Singapore."
+  },
+  {
+   "id": "091653e53b",
+   "title": "Marina Bay Singapore Countdown 2027",
+   "start": "2026-12-31T18:00+08:00",
+   "end": "2027-01-01T00:30+08:00",
+   "category": "Festival",
+   "price": "Free",
+   "venue": "Marina Bay Waterfront / Bayfront Event Space",
+   "spots": [
+    "marina-bay-sands-event-plaza",
+    "the-float-and-marina-bay-promenade"
+   ],
+   "url": "https://www.marinabaycountdown.sg",
+   "source": "Urban Redevelopment Authority",
+   "summary": "Singapore's flagship New Year's Eve countdown event featuring magnificent fireworks, light projections, and live entertainment."
+  },
+  {
+   "id": "ff55df111d",
+   "title": "Light to Night Festival 2027",
+   "start": "2027-01-09T18:30+08:00",
+   "end": "2027-01-31T23:00+08:00",
+   "category": "Arts",
+   "price": "Free",
+   "venue": "Civic District / The Arts House / Victoria Theatre",
+   "spots": [
+    "the-arts-house",
+    "victoria-theatre-and-concert-hall",
+    "national-gallery-roof-garden",
+    "asian-civilisations-museum-green"
+   ],
+   "url": "https://www.nationalgallery.sg",
+   "source": "National Gallery Singapore",
+   "summary": "Urban art festival featuring outdoor facade light projections, interactive art installations, and nocturnal performances."
+  },
+  {
+   "id": "8eb6bbd585",
+   "title": "Singapore Art Week (SAW) 2027",
+   "start": "2027-01-22T10:00+08:00",
+   "end": "2027-01-31T22:00+08:00",
+   "category": "Arts",
+   "price": "Free / Ticketed",
+   "venue": "SAM at 8Q / National Gallery / Aliwal Arts Centre",
+   "spots": [
+    "singapore-art-museum-at-8q",
+    "national-gallery-roof-garden",
+    "aliwal-arts-centre-courtyard"
+   ],
+   "url": "https://www.artweek.sg",
+   "source": "National Arts Council",
+   "summary": "Singapore's signature celebration of visual arts, featuring art pop-ups, public exhibitions, gallery walks, and open studios."
+  },
+  {
+   "id": "47aa10f443",
+   "title": "ART SG 2027",
+   "start": "2027-01-22T11:00+08:00",
+   "end": "2027-01-25T19:00+08:00",
+   "category": "Arts",
+   "price": "Ticketed",
+   "venue": "Suntec Singapore Convention & Exhibition Centre",
+   "spots": [
+    "suntec-singapore-convention-centre"
+   ],
+   "url": "https://artsg.com",
+   "source": "The Art Assembly",
+   "summary": "Southeast Asia's leading international contemporary art fair bringing together global galleries and installations."
+  },
+  {
+   "id": "8517c1bcf4",
+   "title": "KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST",
+   "start": "2027-01-29T19:30+08:00",
+   "end": "2027-01-30T22:00+08:00",
+   "category": "Music",
+   "price": "Ticketed",
+   "venue": "Singapore Indoor Stadium",
+   "spots": [
+    "singapore-indoor-stadium"
+   ],
+   "url": "https://www.livenation.sg",
+   "source": "Live Nation Singapore",
+   "summary": "Japanese singer-songwriter and producer Kenshi Yonezu live in Singapore as part of his GHOST world tour."
+  },
+  {
+   "id": "604826cf79",
+   "title": "Wan Qing Festival of Spring (CNY Open House)",
+   "start": "2027-01-30T10:00+08:00",
+   "end": "2027-02-15T19:00+08:00",
+   "category": "Heritage",
+   "price": "Free",
+   "venue": "Sun Yat Sen Nanyang Memorial Hall",
+   "spots": [
+    "sun-yat-sen-nanyang-memorial-hall"
+   ],
+   "url": "https://www.sysnmh.org.sg",
+   "source": "Sun Yat Sen Nanyang Memorial Hall",
+   "summary": "Chinese New Year celebrations featuring outdoor lawn lantern installations, dragon dance workshops, and heritage crafts."
+  },
+  {
+   "id": "0a0a516858",
+   "title": "Chinatown Chinese New Year Street Light-Up & Festive Market",
+   "start": "2027-01-30T18:00+08:00",
+   "end": "2027-02-18T23:00+08:00",
+   "category": "Heritage",
+   "price": "Free",
+   "venue": "Chinatown Complex / Kreta Ayer Square",
+   "spots": [
+    "chinatown-complex-hawker-centre",
+    "kreta-ayer-square"
+   ],
+   "url": "https://chinatown.sg",
+   "source": "Chinatown Festival Committee",
+   "summary": "Spectacular dragon/zodiac lantern displays, festive night bazaars, traditional goodies, and lion dance performances."
+  },
+  {
+   "id": "c13a637f7d",
+   "title": "River Hongbao 2027",
+   "start": "2027-02-05T14:00+08:00",
+   "end": "2027-02-14T22:30+08:00",
+   "category": "Festival",
+   "price": "Free",
+   "venue": "Gardens by the Bay",
+   "spots": [
+    "supertree-grove"
+   ],
+   "url": "https://riverhongbao.sg",
+   "source": "River Hongbao Committee",
+   "summary": "Iconic Chinese New Year festival featuring massive light lanterns, stage cultural shows, carnival games, and food stalls."
+  },
+  {
+   "id": "efcecd1dd6",
+   "title": "Geylang Serai Ramadan Bazaar 2027",
+   "start": "2027-02-14T16:00+08:00",
+   "end": "2027-03-01T23:59+08:00",
+   "category": "Food",
+   "price": "Free Entry",
+   "venue": "Geylang Serai Cultural Precinct / Wisma Geylang Serai",
+   "spots": [
+    "geylang-serai-community-club"
+   ],
+   "url": "https://www.visitsingapore.com",
+   "source": "People's Association",
+   "summary": "Singapore's largest night food market during Ramadan, featuring traditional Malay street foods, fusion snacks, and festive goods."
+  },
+  {
+   "id": "61cd4cc842",
+   "title": "Chingay Parade 2027",
+   "start": "2027-02-27T20:00+08:00",
+   "end": "2027-02-28T22:30+08:00",
+   "category": "Festival",
+   "price": "Ticketed",
+   "venue": "F1 Pit Building",
+   "spots": [
+    "f1-pit-building"
+   ],
+   "url": "https://www.chingay.gov.sg",
+   "source": "People's Association",
+   "summary": "Asia's largest street performance and float parade celebrating multi-ethnic culture, dance, and community arts."
+  }
+ ]
+}
